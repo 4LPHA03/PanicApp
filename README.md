@@ -1,3 +1,13 @@
+W FOLDERZE ASSETS/ masz plik USUN MNIE.txt, i tak masz zrobić - cała apka potrzebuje folderu assets ale ma być on po prostu pusty
+
+
+
+
+
+
+
+
+
 1. Wymagania
 
 Node.js
