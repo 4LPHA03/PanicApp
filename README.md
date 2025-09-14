@@ -8,9 +8,10 @@ Expo Go
 
 Konto w Matrix.org
  lub własny serwer Matrix
+ (dla ciebie nie potrzebne do momentu kiedy nie chcesz sam stestować wysyłania info na martixa)
 
 2. Klonowanie repozytorium
-git clone https://github.com/TwojNick/PanicApp.git
+git clone 
 cd PanicApp
 
 3. Instalacja zależności
@@ -24,7 +25,7 @@ Skanujesz QR kod aplikacją Expo Go.
 
 Na iOS skanujesz QR aparatem, na Androidzie w aplikacji Expo Go.
 
-5. Konfiguracja Matrix
+5. Konfiguracja Matrix (opcjonalka)
 
 W pliku .env dodaj swoje dane:
 
